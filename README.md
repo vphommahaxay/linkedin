@@ -1,7 +1,7 @@
 
 # MBA ESG - Évaluation Architecture Big Data
 
-## Sujet : Analyse des Offres d’Emploi LinkedIn avec Snowflake
+## Sujet : Analyse des offres d’emploi LinkedIn avec Snowflake
 
 Ce projet a pour objectif de démontrer la capacité à manipuler, structurer et analyser un jeu de données LinkedIn en utilisant Snowflake, en lien avec les compétences acquises en Architecture Big Data.
 
