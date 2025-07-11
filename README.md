@@ -1,13 +1,13 @@
 
-# 📊 MBA ESG - Évaluation Architecture Big Data
+# MBA ESG - Évaluation Architecture Big Data
 
-## 🎯 Sujet : Analyse des Offres d’Emploi LinkedIn avec Snowflake
+## Sujet : Analyse des Offres d’Emploi LinkedIn avec Snowflake
 
 Ce projet a pour objectif de démontrer la capacité à manipuler, structurer et analyser un jeu de données LinkedIn en utilisant Snowflake, en lien avec les compétences acquises en Architecture Big Data.
 
 ---
 
-## 📁 Structure du livrable
+## Structure du livrable
 
 - `MBAESG_EVALUATION_ARCHITECTURE_BIGDATA.sql`  
   Script SQL unique contenant :
@@ -18,7 +18,7 @@ Ce projet a pour objectif de démontrer la capacité à manipuler, structurer et
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - **Snowflake** : entrepôt de données cloud pour la création des structures et l’ingestion de données
 - **S3 Public Bucket** : source de fichiers CSV et JSON utilisés
@@ -26,7 +26,7 @@ Ce projet a pour objectif de démontrer la capacité à manipuler, structurer et
 
 ---
 
-## 🔄 Étapes automatisées dans le script
+## Étapes automatisées dans le script
 
 1. Création de l'entrepôt `my_wh`
 2. Création de la base de données `linkedin` et du schéma `linkedin_schema`
@@ -37,18 +37,6 @@ Ce projet a pour objectif de démontrer la capacité à manipuler, structurer et
 
 ---
 
-## 👤 Réalisé par
+## Réalisé par
 
-Nom : [À compléter]  
-Groupe : [À compléter]  
-Binôme : [Oui / Non]  
-
----
-
-## 📨 Livraison
-
-Ce fichier fait partie du livrable à envoyer à l’adresse suivante :  
-**axel@logbrain.fr**  
-avec pour objet :  
-`MBAESG_EVALUATION_ARCHITECTURE_BIGDATA`
-
+Nom : [PHOMMAHAXAY VYLAIVANE ET PAOLA NGOUADJEL]  
